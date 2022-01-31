@@ -19,4 +19,9 @@ To enable Facebook auth go to ```https://developers.facebook.com/``` -> Get Star
 $ npm run build
 
 ```
- 'build' folder will appear -> drag and drop under Site on 'Netlify' -> Site Settings -> Change site name -> Firebase -> Authentication -> Sign-in methods -> Scroll down to 'Authorized domains' -> Copy our deployed site's 'https://itsmymessenger.netlify.app/' -> Click 'Add Domain' -> Paste the link -> Add
+ 'build' folder will appear -> drag and drop under Site on 'Netlify' -> Site Settings -> Change site name -> Firebase -> Authentication -> Sign-in methods -> Scroll down to 'Authorized domains' -> Copy our deployed site's 'https://itsmymessenger.netlify.app/' -> Open Firebase -> Authentication -> Click 'Add Domain' -> Paste the link -> Add
+ 
+ 
+ ---------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ 
